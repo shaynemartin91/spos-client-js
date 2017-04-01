@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "API client for a sparkpay online store account",
   "main": "index.js",
-  "author": "Shayne Martin",
+  "author": "Shayne Martin <shayne.martin@capitalone.com>",
   "license": "MIT",
   "scripts": {
     "start": "node ./src/index.js",
@@ -14,5 +14,9 @@
   },
   "engines": {
     "node": "^7.6.0"
+  },
+  "repository": {
+    "url": "https://github.com/shaynemartin91/spos-client-js",
+    "type": "git"
   }
 }

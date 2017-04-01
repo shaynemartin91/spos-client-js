@@ -1,4 +1,4 @@
-const Client = require('../src');
+const Client = require('../index');
 const client = new Client(`shaynetestmulti.americommerce.com`, `6febda83c3c531ebd6c3f21268c20b75`);
 
 const test = async () => {
