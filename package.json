@@ -1,0 +1,18 @@
+{
+  "name": "spos-client-js",
+  "version": "1.0.0",
+  "description": "API client for a sparkpay online store account",
+  "main": "index.js",
+  "author": "Shayne Martin",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "node ./tests/index.js"
+  },
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "engines": {
+    "node": "^7.6.0"
+  }
+}
